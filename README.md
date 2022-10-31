@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaveri</h1>
-<h3 align="center">I am a technical writer and Web developer</h3>
+<h3 align="center">I am a Web developer and technical writer</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://kaveri-gotkhindi.netlify.app/)
 
